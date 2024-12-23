@@ -73,7 +73,7 @@ Visualizations generated during the analysis are saved in the `/visualizations` 
 
 ## Tools and Technologies
 - **Programming Language**: Python
-- **Libraries**: Pandas, Matplotlib, Seaborn
+- **Libraries**: Pandas, Plotly
 - **IDE**: PyCharm
 - **Version Control**: Git and GitHub
 
