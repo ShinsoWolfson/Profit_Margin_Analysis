@@ -64,11 +64,11 @@ The profit distribution shows a right-skewed pattern, indicating that a small su
 ## Visualizations
 Visualizations generated during the analysis are saved in the `/visualizations` directory:
 1. **Top 10 Products by Profit**: Highlights the most profitable products.
-<img src="visualizations/top_10_products_by_profit.png" alt="Top 10 Products by Profit" width="400">
+<img src="visualizations/top_10_products_by_profit.png" alt="Top 10 Products by Profit" width="100%">
 2. **Quantity vs. Profit Scatter Plot**: Shows the relationship between sales volume and profitability
-<img src="visualizations/total_amount_vs_quanitity_top_10_products.png" alt="Scatter Plot" width="400">
+<img src="visualizations/total_amount_vs_quantity_top_10_products.png" alt="Scatter Plot" width="100%">
 3. **Profit Distribution**: Visualizes the spread of profits across all products
-<img src="visualizations/quantity_distribution_of_top_10_products.png" alt="Profit Distribution" width="400">
+<img src="visualizations/quantity_distribution_of_top_10_products.png" alt="Profit Distribution" width="100%">
 
 ---
 
